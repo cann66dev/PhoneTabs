@@ -1,9 +1,0 @@
-Package: com.cann66.phonetabs
-Name: Phone Tabs
-Author: Cann66
-Description: Disable Tabs 
-Depends: mobilesubstrate
-Maintainer: Cann66 <cann66dev@gmail.com
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 1.1
